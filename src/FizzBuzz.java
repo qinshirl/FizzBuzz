@@ -1,7 +1,7 @@
 /**
  * Solve the FizzBuzz challenge.
  */
-class FizzBuzz {
+class FizzBuzzDemo {
 
     public static void main(String[] args) {
 
